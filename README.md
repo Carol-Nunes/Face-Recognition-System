@@ -10,7 +10,7 @@ Ele consiste em um algoritmo da rede YOLO treinada para reconhecer os rostos das
 
 O objetivo principal deste projeto é trabalhar com as bibliotecas e frameworks estudados e analisados em nossas aulas. Neste sentido, a proposta padrão envolve um sistema de detecção e reconhecimento de faces.
 
-Tecnologias utilizadas
+<h2>Tecnologias utilizadas</h2>
 
     - Dataset: https://universe.roboflow.com/main-iuuqb/celebrities-ohrao;
     - Tutorial auxiliar: https://geekyants.com/blog/how-to-train-yolov3-to-detect-custom-objects-demo-video-included
